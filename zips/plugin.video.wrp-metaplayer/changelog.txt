@@ -1,3 +1,18 @@
+[B]Version 1.0.7 Release[/B]
+- TVDb Fix Serien Suche 
+- Filme Menü Suche hinzugefügt für Filme
+- Serien Menü Suche hinzugefügt für Serien
+- Settings.xml überarbeitet
+
+[B]Version 1.0.7~nightly4-8[/B]
+- Test
+
+[B]Version 1.0.7~nightly3[/B]
+- immer noch total buggy 
+
+[B]Version 1.0.7~nightly2[/B]
+- total buggy 
+
 [B]Version 1.0.7~nightly1[/B]
 - Kontextmenü angepasst 
 - Updatemanager erweitert
