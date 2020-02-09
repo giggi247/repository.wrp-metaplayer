@@ -1,0 +1,58 @@
+[B]Version 1.0.7~nightly3[/B]
+- TVDb Fix Serien Suche 
+- Filme Menü Suche hinzugefügt für Filme
+- Serien Menü Suche hinzugefügt für Serien
+- WRPinfo Addon Abhängigkeit integriert
+- Settings.xml überarbeitet
+
+[B]Version 1.0.7~nightly2[/B]
+- total buggy 
+
+[B]Version 1.0.7~nightly1[/B]
+- Kontextmenü angepasst 
+- Updatemanager erweitert
+        
+[B]Version 1.0.6[/B]
+- WRPinfo integriert 
+
+[B]Version 1.0.5~nightly5[/B]
+- fix some bugs
+        
+[B]Version 1.0.5~nightly4[/B]
+- fix menu_items
+
+[B]Version 1.0.5~nightly3[/B]
+- fix translations
+
+[B]Version 1.0.5~nightly2[/B]
+ - fix TMDb
+
+[B]Version 1.0.5~nightly1[/B]
+ - fix updateManager 
+
+[B]Version 1.0.4[/B]
+
+- Sprachen Auswahl für TMDb und TVDb
+- updateManager für WRP-MetaPlayer und UrlResolver
+    ( unter Einstellungen / Aktualisierungen )
+- some fixes
+
+[B]Version 1.0.3[/B]
+
+- Update Übersetzungen
+- Update Funktion der Player Aktualisierung
+
+[B]Version 1.0.2[/B]
+
+- Update Übersetzungen
+- Überflüssigen Programm Code entfernt
+
+[B]Version 1.0.1[/B]
+
+- Übersetzungen in deutsch angepasst
+- Tmdb und TVDB Links für deutschen Content überarbeitet
+- Player Dateien erstellt und integriert
+
+[B]Version 1.0[/B]
+
+- Initial Release
