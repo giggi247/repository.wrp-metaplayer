@@ -1,13 +1,3 @@
-[B]Version 1.0.7~nightly3[/B]
-- TVDb Fix Serien Suche 
-- Filme Menü Suche hinzugefügt für Filme
-- Serien Menü Suche hinzugefügt für Serien
-- WRPinfo Addon Abhängigkeit integriert
-- Settings.xml überarbeitet
-
-[B]Version 1.0.7~nightly2[/B]
-- total buggy 
-
 [B]Version 1.0.7~nightly1[/B]
 - Kontextmenü angepasst 
 - Updatemanager erweitert

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.wrp-metaplayer" name="WRP-MetaPlayer" version="1.0.7~nightly3" provider-name="DWH">
+<addon id="plugin.video.wrp-metaplayer" name="WRP-MetaPlayer" version="1.0.7~nightly4" provider-name="DWH">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="metadata.tvdb.com" version="3.0.14"/>
         <import addon="script.module.futures" version="2.2.0"/>
         <import addon="script.module.requests" version="2.19.1"/>
         <import addon="script.module.requests-cache" version="0.4.13"/>
-        <import addon="script.wrpinfo" version="1.0.0"/>
         <import addon="script.module.pydevd-pycharm" optional="true" />
     </requires>
     <extension point="xbmc.python.pluginsource" library="default.py">
@@ -47,12 +46,11 @@
         <license>GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007</license>
         <source>Source Code from Chaapai by Mr.Blamo and OpenMeta by OpenProject</source>
         <news>THX an Kasi45 für deine super Hilfe
+[B]Version 1.0.7~nightly4[/B]
+- Test
+
 [B]Version 1.0.7~nightly3[/B]
-- TVDb Fix Serien Suche 
-- Filme Menü Suche hinzugefügt für Filme
-- Serien Menü Suche hinzugefügt für Serien
-- WRPinfo Addon Abhängigkeit integriert
-- Settings.xml überarbeitet
+- immer noch total buggy 
 
 [B]Version 1.0.7~nightly2[/B]
 - total buggy 
