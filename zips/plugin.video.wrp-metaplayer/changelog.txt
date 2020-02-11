@@ -1,3 +1,9 @@
+
+[B]Version 1.0.8~nighty1[/B]
+- Views geupdated
+- Abhängigkeiten überarbeitet
+- Settings.xml überarbeitet
+
 [B]Version 1.0.7 Release[/B]
 - TVDb Fix Serien Suche 
 - Filme Menü Suche hinzugefügt für Filme
