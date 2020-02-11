@@ -1,7 +1,8 @@
+[B]Version 1.0.8~nighty2[/B]
+- Bugfix behoben
 
 [B]Version 1.0.8~nighty1[/B]
 - Views geupdated
-- Abhängigkeiten überarbeitet
 - Settings.xml überarbeitet
 
 [B]Version 1.0.7 Release[/B]
