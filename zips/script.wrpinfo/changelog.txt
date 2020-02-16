@@ -1,3 +1,8 @@
+[B]Version 1.0.4~nightly4[/B]
+
+ - Netflix Skin überarbeitet
+ - Skins Anpassung für Aeon Nox Silvo, Aura, Aura Mod, Estuary 
+
 [B]Version 1.0.4~nightly3[/B]
 
  - Netflix Skin überarbeitet
