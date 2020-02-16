@@ -1,3 +1,9 @@
+[B]Version 1.0.4~nightly3[/B]
+
+ - Netflix Skin überarbeitet
+ - Skins überarbeitet 
+ - Skin Bug entfernt            
+
 [B]Version 1.0.4~nightly2[/B]
 
  - Netflix Skin überarbeitet
