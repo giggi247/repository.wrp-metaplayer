@@ -1,22 +1,30 @@
+[B]Version 1.0.4~nightly2[/B]
+
+ - Netflix Skin überarbeitet
+ - Netflix Actor Info hinzugefügt 
+ - Übersetzungen in deutsch        
+        
 [B]Version 1.0.4~nightly1[/B]
-  - Skins angepasst	
-  - Übersetzungen in deutsch
+
+ - Skins angepasst	
+ - Übersetzungen in deutsch
 		
 [B]Version 1.0.3[/B]
-  - Skins angepasst
+
+ - Skins angepasst
 
 [B]Version 1.0.2[/B]
 
-- Bibliotheks Fehler behoben
-- Skins angepasst
-- Übersetzungen in deutsch
+ - Bibliotheks Fehler behoben
+ - Skins angepasst
+ - Übersetzungen in deutsch
 
 [B]Version 1.0.1[/B]
 
-- WRP-MetaPlayer integriert
-- Pfade angepasst
-- Übersetzungen in deutsch
+ - WRP-MetaPlayer integriert
+ - Pfade angepasst
+ - Übersetzungen in deutsch
 
 [B]Version 1.0.0[/B]
 
-- Initial Release
+ - Initial Release
