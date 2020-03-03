@@ -32,7 +32,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.wrp-metaplayer" name="WRP-MetaPlayer" version="1.0.8~nighty2" provider-name="DWH">
+<addon id="plugin.video.wrp-metaplayer" name="WRP-MetaPlayer" version="1.0.8" provider-name="DWH">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="metadata.tvdb.com" version="3.0.14"/>
@@ -79,6 +79,12 @@
         <license>GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007</license>
         <source>Source Code from Chaapai by Mr.Blamo and OpenMeta by OpenProject</source>
         <news>THX an Kasi45 für deine super Hilfe
+
+[B]Version 1.0.8 Release[/B]
+- Updatemanger fixed THX an kasi45
+- Update service.py
+- Nur noch Releases über Repository
+- Nightlys bitte im Addon aktivieren bzw. deaktivieren
 
 [B]Version 1.0.8~nighty2[/B]
 - Bugfix behoben
@@ -155,7 +161,7 @@
     </extension>
 </addon>
 
-<addon id="script.wrpinfo" name="WRPInfo" version="1.0.4~nightly4" provider-name="DWH">
+<addon id="script.wrpinfo" name="WRPInfo" version="1.0.4" provider-name="DWH">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.pil" version="1.1.7"/>
@@ -190,6 +196,12 @@
 			<screenshot>resources/art/screenshot3.jpg</screenshot>
 		</assets>
 		<news>
+[B]Version 1.0.4 Release[/B]
+
+ - Übersetung überarbeitet
+ - bugfixes
+ - Update Multigenres
+
 [B]Version 1.0.4~nightly4[/B]
 
  - Netflix Skin überarbeitet

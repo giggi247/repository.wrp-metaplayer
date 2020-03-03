@@ -1,3 +1,9 @@
+[B]Version 1.0.4 Release[/B]
+
+ - Übersetung überarbeitet
+ - bugfixes  
+ - Update Multigenres 
+
 [B]Version 1.0.4~nightly4[/B]
 
  - Netflix Skin überarbeitet

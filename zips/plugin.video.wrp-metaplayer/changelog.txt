@@ -1,3 +1,9 @@
+[B]Version 1.0.8 Release[/B]
+- Updatemanger fixed THX an kasi45
+- Update service.py
+- Nur noch Releases über Repository
+- Nightlys bitte im Addon aktivieren bzw. deaktivieren
+
 [B]Version 1.0.8~nighty2[/B]
 - Bugfix behoben
 
