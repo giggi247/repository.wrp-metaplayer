@@ -1,3 +1,8 @@
+[B]Version 1.0.5~nightly1[/B]
+
+ - addon.xml überarbeitet (WRP-Metaplayer)
+ - update Readme.md 
+
 [B]Version 1.0.4 Release[/B]
 
  - Übersetung überarbeitet
